@@ -1,6 +1,5 @@
 Caryn Gray's Professional Profile Page
 
-You can use the [editor on GitHub](https://github.com/cgray1230/cgrayprofile01-gethub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Account Director | Digital Marketer | Project Manager
 
@@ -26,8 +25,6 @@ with C-Suite to mid-level clients.  Solid project manager, overseeing multiple p
 • Successful track record of account forecasting and managing account P&Ls
 
 
-[Link](url) and ![Image](src)
-
 
 Experience
 
@@ -38,6 +35,7 @@ I have held senior client relationship and pre-sales consulting roles for some h
 • Agencies/Business Services: Leo Burnett, Kramer-Krasselt, AmberLeaf, Shift7 Digital
 • Consulting: Nykamp Consulting, Experian Consulting
 
+
 Clients Served
 
 • Retail: Williams Sonoma, Sears, The Limited Brands, Hallmark, Godiva, Big Lots, GM
@@ -46,11 +44,12 @@ Clients Served
 
 • B2B: Reinhart Foods, Deluxe Corporation, MEGTEC, USG, GM LAM
 
-• Travel/Entertainment: Disney World, International Speedway Corp., Orlando CVB, United
+• Travel/Entertainment: Disney World, International Speedway Corporation, Orlando CVB, United
 
 • CPG/FMCG: Kraft, Kellogg’s, McDonald’s, GAPAC (Brawny), Phillip Morris
 
 • Associations: ABA, American College of Surgeons
+
 
 What Others Say:
 
@@ -59,3 +58,7 @@ What Others Say:
 • Caryn is a marketing and business strategist and pragmatic account professional. She effectively listens to client’s needs and turns them into the best solutions to deliver business value.– GW, Harte-Hanks
 
 • “Caryn is an excellent communicator – an accomplished industry writer and an engaging speaker.” – RM, ABA
+
+
+University of Illinois, Champaign-Urbana
+BA, French/Marketing
