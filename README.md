@@ -6,7 +6,6 @@ Account Director | Digital Marketer | Project Manager
 
 Professional, data-driven marketing professional with extensive experience helping organizations achieve greater
 business performance through transformative technologies.  Results-oriented Account Director with high EQ and growth mindset. Proven track record to build trusted strategic advisor relationships with C-Suite to mid-level clients.  Solid project manager, overseeing multiple projects to the highly complex, completing them on-time and in-budget.  Develops employees for career growth.
-
 - Strong communication skills and effective engagement at all organizational levels
 
 • Cognitive awareness, insight-driven and consultative manner
